@@ -1,4 +1,4 @@
-# yoclip
+# Yoclip
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/1a1e882b-5005-4966-97f6-a627dcafe687" />
 
 
